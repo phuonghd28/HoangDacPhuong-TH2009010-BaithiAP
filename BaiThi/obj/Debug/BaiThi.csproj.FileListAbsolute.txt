@@ -1,0 +1,6 @@
+C:\Users\Dell\RiderProjects\BaiThi\BaiThi\bin\Debug\BaiThi.exe
+C:\Users\Dell\RiderProjects\BaiThi\BaiThi\bin\Debug\BaiThi.pdb
+C:\Users\Dell\RiderProjects\BaiThi\BaiThi\obj\Debug\BaiThi.csprojAssemblyReference.cache
+C:\Users\Dell\RiderProjects\BaiThi\BaiThi\obj\Debug\BaiThi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\BaiThi\BaiThi\obj\Debug\BaiThi.exe
+C:\Users\Dell\RiderProjects\BaiThi\BaiThi\obj\Debug\BaiThi.pdb
